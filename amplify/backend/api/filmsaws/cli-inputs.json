@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "filmsaws",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/morvan/Documents/epita/aws/films-aws/amplify/backend/api/filmsaws/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-06T11:35:24.255Z",
+      "keyDescription": ""
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

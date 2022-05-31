@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-filmsaws-dev-115119-authRole",
+      "UnauthRoleArn": "arn:aws:iam::975727823142:role/amplify-filmsaws-dev-115119-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::975727823142:role/amplify-filmsaws-dev-115119-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-filmsaws-dev-115119-deployment",
+      "UnauthRoleName": "amplify-filmsaws-dev-115119-unauthRole",
+      "StackName": "amplify-filmsaws-dev-115119",
+      "StackId": "arn:aws:cloudformation:us-east-1:975727823142:stack/amplify-filmsaws-dev-115119/bb000390-de6b-11ec-ac44-0a9aed05864b",
+      "AmplifyAppId": "d23fun3kdy94x9"
+    },
+    "categories": {
+      "auth": {
+        "filmsawsc8f872b3": {}
+      }
+    }
+  }
+}
